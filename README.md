@@ -1,148 +1,199 @@
-# 👋 Hi, I'm Hafsa Hussain
+<div align="center">
 
-### 💻 Flutter Developer | Mobile App Developer | UI/UX & Graphic Designer
+# ✨ Hafsa Hussain
 
-I’m a passionate developer who enjoys building **modern, user-friendly mobile applications** and creating clean, engaging digital experiences.
+### 💻 Flutter Developer • Mobile App Developer • Creative Designer
 
-I work mainly with **Flutter & Dart** and have experience working with APIs, Firebase, databases and modern UI design.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=Flutter+Developer;Mobile+App+Developer;UI%2FUX+%26+Graphic+Designer;Turning+Ideas+Into+Apps+✨" />
+
+<br>
+
+<a href="https://github.com/hafsahussain-tech">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/hafsa-hussain-513b3b324/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/graphico.studio2.0/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 🌷 About Me
 
-- 📱 Building cross-platform mobile applications with **Flutter**
-- 🎨 Interested in **UI/UX, Graphic Design & Brand Identity**
-- 🔥 Working with **Firebase & REST APIs**
-- 💻 Learning and improving my **Python** skills
-- 🌱 Continuously exploring new technologies
-- 💡 I enjoy turning ideas into functional applications
+Hi! I'm **Hafsa Hussain**, a developer and creative designer who enjoys building modern mobile applications and creating clean, engaging digital experiences.
+
+💜 I mainly work with **Flutter & Dart** and enjoy combining development with creative design.
+
+- 📱 Building cross-platform mobile applications
+- 🎨 UI/UX & Graphic Design
+- 🔥 Firebase & backend integration
+- 🌐 REST API integration
+- 🐍 Currently improving my Python skills
+- 💡 Turning ideas into functional and beautiful applications
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ My Tech Stack
+
+<div align="center">
 
 ### 📱 Mobile Development
 
-<p>
 <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
-</p>
 
 ### 💻 Programming
 
-<p>
 <img src="https://skillicons.dev/icons?i=python,java" />
-</p>
 
 ### ☁️ Backend & Database
 
-<p>
 <img src="https://skillicons.dev/icons?i=firebase,supabase" />
-</p>
 
-### 🔧 Tools
+### 🎨 Design & Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva" />
-</p>
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode" />
+
+</div>
 
 ---
 
-## 📱 Featured Projects
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ### 📦 StockSense
+
 **Inventory Management System**
 
-- 📷 Barcode scanning
-- 📊 Real-time inventory tracking
-- 🔔 Low-stock alerts
-- 📈 Reports & analytics
-- 👥 Role-based access
-- 🗄️ CRUD operations
+📷 Barcode Scanning  
+📊 Real-time Tracking  
+🔔 Low Stock Alerts  
+📈 Reports & Analytics  
+👥 Role-based Access  
 
-🔗 [View Project](https://github.com/itsmehafsay-ux/StockSense-)
+**Flutter • Dart • Database • Barcode API**
 
----
+<a href="https://github.com/hafsahussain-tech/StockSense-">
+View Repository →
+</a>
+
+</td>
+
+<td width="50%">
 
 ### 🍔 QuickServe
+
 **Food Delivery Application**
 
-A modern food-delivery application with a user-friendly interface and backend integration.
+🍔 Modern food-delivery UI  
+🔥 Firebase integration  
+🔔 Push notifications  
+📱 Responsive Flutter interface  
 
-**Tech:** Flutter • Firebase • FCM
+**Flutter • Dart • Firebase • FCM**
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🎯 Goal App
+
 **Goal Management Application**
 
-A mobile application designed to help users manage and track their goals with a clean and intuitive interface.
+🎯 Goal tracking  
+📱 Clean mobile UI  
+🌐 REST API integration  
+🔐 Authentication  
 
-**Tech:** Flutter • Dart • REST API
+**Flutter • Dart • REST API**
 
----
+</td>
 
-### 📚 Student Portal
+<td width="50%">
+
+### 🎓 Student Portal
+
 **BBSUL Student Portal**
 
-A Flutter-based student portal designed for accessing student-related services through a modern mobile interface.
+📚 Student services  
+🔐 Authentication  
+📱 Mobile-first interface  
+🎨 Modern UI  
 
-**Tech:** Flutter • Dart
+**Flutter • Dart**
 
----
-
-## 🎨 Design & Creative Work
-
-Alongside development, I also work on:
-
-- 🎨 Graphic Design
-- 📱 Social Media Design
-- 🖌️ Brand Identity
-- ✨ UI Design
-- 🧩 Canva Design
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 🎨 Creative Design
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=itsmehafsay-ux&show_icons=true&theme=radical&hide_border=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmehafsay-ux&layout=compact&theme=radical&hide_border=true" height="180"/>
-</p>
+Alongside development, I also create:
+
+🎨 **Graphic Design**  
+📱 **Social Media Design**  
+✨ **Brand Identity**  
+🖌️ **UI/UX Design**  
+📋 **Canva Designs**
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=hafsahussain-tech&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafsahussain-tech&layout=compact&theme=radical&hide_border=true" />
+
+</div>
 
 ---
 
 ## 🔥 Contribution Streak
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=itsmehafsay-ux&theme=radical&hide_border=true"/>
-</p>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=hafsahussain-tech&theme=radical&hide_border=true" />
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
-<p align="center">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/hafsa-hussain-513b3b324/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/itsmehafsay-ux">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/graphico.studio2.0/">
-<img src="https://img.shields.io/badge/Instagram-Graphico-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-Graphico%20Studio-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-</p>
+<a href="https://github.com/hafsahussain-tech">
+<img src="https://img.shields.io/badge/GitHub-hafsahussain--tech-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
----
+</div>
 
-## 💜 Let's Build Something Amazing!
+<br>
 
-> Turning ideas into beautiful interfaces and functional applications.
+<div align="center">
 
-<p align="center">
-✨ Flutter • Design • Creativity • Innovation ✨
-</p>
+### 💜 Build • Create • Design • Innovate
+
+*Turning ideas into beautiful interfaces and functional applications.*
+
+</div>
